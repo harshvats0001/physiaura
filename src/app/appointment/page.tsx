@@ -20,25 +20,25 @@ const services: ServiceOption[] = [
     id: 'physio',
     name: 'Physiotherapy Session',
     duration: '45 minutes',
-    price: '300';
+    price: '₹300';
   },
   {
     id: 'sports',
     name: 'Sports Rehabilitation',
     duration: '60 minutes',
-    price: '300';
+    price: '₹300';
   },
   {
     id: 'massage',
     name: 'Therapeutic Massage',
     duration: '30 minutes',
-    price: '300';
+    price: '₹300';
   },
   {
     id: 'assessment',
     name: 'Initial Assessment',
     duration: '60 minutes',
-    price: '300';
+    price: '₹300';
   },
 ];
 
