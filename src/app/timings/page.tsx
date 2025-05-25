@@ -113,7 +113,7 @@ const TimingsPage = () => {
               For urgent inquiries or rescheduling:
             </p>
             <a
-              href="tel:+1234567890"
+              href="tel: +91 92208 56473"
               className="text-lg font-semibold text-red-600 hover:text-red-700"
             >
               +1 (234) 567-890
