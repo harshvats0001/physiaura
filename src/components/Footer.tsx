@@ -54,10 +54,10 @@ export default function Footer() {
               <li className="flex items-center space-x-3">
                 <Mail size={18} />
                 <a
-                  href="mailto:info@physiaura.com"
+                  href="mailto: ayushityagi0104@gmail.com"
                   className="text-sm hover:text-primary"
                 >
-                  info@physiaura.com
+                  ayushityagi0104@gmail.com
                 </a>
               </li>
               <li className="flex items-start space-x-3">
