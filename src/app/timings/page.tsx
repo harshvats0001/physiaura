@@ -116,7 +116,7 @@ const TimingsPage = () => {
               href="tel: +91 92208 56473"
               className="text-lg font-semibold text-red-600 hover:text-red-700"
             >
-              +1 (234) 567-890
+              +91 92208 56473
             </a>
           </motion.div>
         </div>
