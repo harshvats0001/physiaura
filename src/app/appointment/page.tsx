@@ -12,7 +12,6 @@ interface ServiceOption {
   id: string;
   name: string;
   duration: string;
-  price: string;
 }
 
 const services: ServiceOption[] = [
