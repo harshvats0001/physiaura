@@ -17,7 +17,6 @@ A modern, responsive website for PHYSIAURA Physiotherapy Clinic built with Next.
 - TypeScript
 - Tailwind CSS
 - Framer Motion
-- React Hook Form
 - Zod
 - Lucide Icons
 
